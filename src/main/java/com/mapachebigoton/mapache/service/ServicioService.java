@@ -16,5 +16,4 @@ public interface ServicioService {
 
 	void delete(Integer idServicio);
 
-	gera gera gera ger a
 }
